@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'code_pro_bold_normal';
+   font-display: swap;
+   src: url('code_pro_bold_normal/font.ttf');
+}
+@font-face {
+   font-family: 'halenoir_compact_bold';
+   font-display: swap;
+   src: url('halenoir_compact_bold/font.ttf');
+}
